@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_words_separated_by_space">Enter words separated by space</string>
+</resources>
